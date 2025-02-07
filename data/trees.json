@@ -1,0 +1,408 @@
+[
+  {
+    "id": "mango-tree",
+    "category": "fruit",
+    "name": "Mango Tree",
+    "scientificName": "Mangifera indica",
+    "image": {
+      "main": "/images/trees/mango/main.jpg",
+      "gallery": [
+        "/images/trees/mango/1.jpg",
+        "/images/trees/mango/2.jpg",
+        "/images/trees/mango/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 89.90,
+      "original": 99.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "LwuEcbZ",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Tropical fruit tree with sweet, juicy yields.",
+    "description": "Our mango trees are carefully nurtured to ensure healthy growth and abundant fruit production. Perfect for home gardens, these trees can grow up to 30-40 feet but can be maintained at a smaller size through regular pruning.",
+    "features": [
+      "Self-pollinating",
+      "Fruits within 3-5 years",
+      "Drought tolerant",
+      "Year-round foliage"
+    ],
+    "history": "Native to South Asia, mango trees have been cultivated for thousands of years and are now grown in many tropical and subtropical regions worldwide.",
+    "careTips": {
+      "sunlight": "Full sun (6-8 hours daily)",
+      "water": "Regular watering, allow soil to dry between waterings",
+      "soil": "Well-draining, rich in organic matter",
+      "fertilizer": "NPK 6-6-6 every 3 months",
+      "pruning": "Annual pruning after fruit harvest"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "May"],
+      "fruiting": ["June", "July", "August"]
+    },
+    "tags": ["fruit", "tropical", "evergreen", "popular"]
+  },
+  {
+    "id": "cherry-blossom",
+    "category": "flower",
+    "name": "Cherry Blossom",
+    "scientificName": "Prunus serrulata",
+    "image": {
+      "main": "/images/trees/cherry/main.jpg",
+      "gallery": [
+        "/images/trees/cherry/1.jpg",
+        "/images/trees/cherry/2.jpg",
+        "/images/trees/cherry/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 159.90,
+      "original": 179.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["3ft", "4ft", "5ft"]
+    },
+    "shortDesc": "Ornamental tree known for its beautiful pink blossoms.",
+    "description": "Our cherry blossom trees are perfect for adding a touch of elegance to any garden. These ornamental trees burst into stunning pink blooms during flowering season, creating a magical atmosphere in your outdoor space.",
+    "features": [
+      "Beautiful spring blooms",
+      "Attractive bark",
+      "Moderate growth rate",
+      "Good for small gardens"
+    ],
+    "history": "Cherry blossoms, or sakura, have been cherished in Japanese culture for centuries and are now popular worldwide for their stunning spring displays.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Moderate watering, keep soil moist",
+      "soil": "Well-draining, slightly acidic",
+      "fertilizer": "Balanced fertilizer in early spring",
+      "pruning": "Light pruning after flowering"
+    },
+    "seasonality": {
+      "planting": ["October", "November", "December"],
+      "flowering": ["March", "April"]
+    },
+    "tags": ["flower", "ornamental", "spring", "popular"]
+  },
+  {
+    "id": "rambutan-tree",
+    "category": "fruit",
+    "name": "Rambutan Tree",
+    "scientificName": "Nephelium lappaceum",
+    "image": {
+      "main": "/images/trees/rambutan/main.jpg",
+      "gallery": [
+        "/images/trees/rambutan/1.jpg",
+        "/images/trees/rambutan/2.jpg",
+        "/images/trees/rambutan/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 79.90,
+      "original": 89.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Popular Malaysian fruit tree with sweet, juicy fruits.",
+    "description": "Our rambutan trees are locally sourced and well-adapted to Malaysian climate. Known for their sweet, translucent flesh and distinctive red spiky exterior, rambutans are a delightful addition to any tropical fruit garden.",
+    "features": [
+      "Fast growing",
+      "High yield",
+      "Local favorite",
+      "Heat tolerant"
+    ],
+    "history": "Native to the Malay-Indonesian region, rambutan has been cultivated for centuries throughout Southeast Asia.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Regular watering, likes humidity",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "NPK 8-8-8 every 4 months",
+      "pruning": "Regular pruning to maintain size"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["June", "July", "December", "January"]
+    },
+    "tags": ["fruit", "tropical", "local", "popular"]
+  },
+  {
+    "id": "durian-tree",
+    "category": "fruit",
+    "name": "Durian Tree",
+    "scientificName": "Durio zibethinus",
+    "image": {
+      "main": "/images/trees/durian/main.webp",
+      "gallery": [
+        "/images/trees/durian/1.jpg",
+        "/images/trees/durian/2.jpg",
+        "/images/trees/durian/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 199.90,
+      "original": 249.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "C3Vu8bo",
+      "inStock": true,
+      "variants": ["3ft", "4ft", "5ft"]
+    },
+    "shortDesc": "The King of Fruits - premium durian tree saplings.",
+    "description": "Our durian trees are carefully selected from premium varieties known for their rich, creamy flesh and intense flavor. These saplings are grafted to ensure they maintain the quality of the parent tree.",
+    "features": [
+      "Premium variety",
+      "Grafted sapling",
+      "High yield potential",
+      "Strong root system"
+    ],
+    "history": "Native to Southeast Asia, durian has been cultivated for centuries and is particularly beloved in Malaysia, where it's known as the 'King of Fruits'.",
+    "careTips": {
+      "sunlight": "Full sun (6-8 hours daily)",
+      "water": "Regular watering, well-draining soil essential",
+      "soil": "Rich, deep, well-draining soil",
+      "fertilizer": "NPK 15-15-15 every 3 months",
+      "pruning": "Minimal pruning, mainly for shape"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["June", "July", "December", "January"]
+    },
+    "tags": ["fruit", "tropical", "local", "premium"]
+  },
+  {
+    "id": "mangosteen-tree",
+    "category": "fruit",
+    "name": "Mangosteen Tree",
+    "scientificName": "Garcinia mangostana",
+    "image": {
+      "main": "/images/trees/mangosteen/main.png",
+      "gallery": [
+        "/images/trees/mangosteen/1.jpg",
+        "/images/trees/mangosteen/2.jpg",
+        "/images/trees/mangosteen/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 129.90,
+      "original": 149.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "The Queen of Fruits - elegant and delicious.",
+    "description": "Known as the Queen of Fruits, mangosteen trees produce beautiful purple fruits with sweet, white segments inside. Our trees are well-established and ready for your garden.",
+    "features": [
+      "Slow growing",
+      "Evergreen",
+      "Ornamental value",
+      "Disease resistant"
+    ],
+    "history": "Originally from the Sunda Islands and the Moluccas, mangosteen has been cultivated in Malaysia for centuries and is prized for its delicate flavor.",
+    "careTips": {
+      "sunlight": "Partial shade when young, full sun when mature",
+      "water": "Regular watering, likes humidity",
+      "soil": "Rich, acidic soil (pH 5.5-6.8)",
+      "fertilizer": "Balanced NPK every 3 months",
+      "pruning": "Minimal pruning needed"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["June", "July", "November", "December"]
+    },
+    "tags": ["fruit", "tropical", "local", "premium"]
+  },
+  {
+    "id": "frangipani-tree",
+    "category": "flower",
+    "name": "Frangipani Tree",
+    "scientificName": "Plumeria rubra",
+    "image": {
+      "main": "/images/trees/frangipani/main.jpg",
+      "gallery": [
+        "/images/trees/frangipani/1.jpg",
+        "/images/trees/frangipani/2.jpg",
+        "/images/trees/frangipani/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 89.90,
+      "original": 99.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Fragrant tropical flowers perfect for gardens.",
+    "description": "Our frangipani trees produce beautiful, fragrant flowers in various colors. These low-maintenance trees are perfect for creating a tropical paradise in your garden.",
+    "features": [
+      "Fragrant flowers",
+      "Multiple colors",
+      "Drought tolerant",
+      "Easy to grow"
+    ],
+    "history": "A beloved ornamental tree in Malaysia, frangipani flowers are often used in traditional ceremonies and garlands.",
+    "careTips": {
+      "sunlight": "Full sun for best flowering",
+      "water": "Moderate watering, drought tolerant",
+      "soil": "Well-draining soil",
+      "fertilizer": "High phosphorus fertilizer during growing season",
+      "pruning": "Prune in early spring"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "May"],
+      "flowering": ["Year-round", "Peak: June to November"]
+    },
+    "tags": ["flower", "fragrant", "tropical", "local"]
+  },
+  {
+    "id": "bunga-raya",
+    "category": "flower",
+    "name": "Hibiscus Tree (Bunga Raya)",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "image": {
+      "main": "/images/trees/hibiscus/main.jpg",
+      "gallery": [
+        "/images/trees/hibiscus/1.jpg",
+        "/images/trees/hibiscus/2.jpg",
+        "/images/trees/hibiscus/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 69.90,
+      "original": 79.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Malaysia's national flower, perfect for any garden.",
+    "description": "The national flower of Malaysia, our hibiscus trees produce stunning red flowers that bloom year-round. These versatile plants can be grown as shrubs or small trees.",
+    "features": [
+      "National flower",
+      "Year-round blooming",
+      "Fast growing",
+      "Versatile shaping"
+    ],
+    "history": "Chosen as Malaysia's national flower in 1960, the Bunga Raya symbolizes courage and life to Malaysians.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Regular watering, keep soil moist",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "Monthly balanced fertilizer",
+      "pruning": "Regular pruning for shape and flowers"
+    },
+    "seasonality": {
+      "planting": ["Year-round"],
+      "flowering": ["Year-round", "Peak: March to September"]
+    },
+    "tags": ["flower", "national", "tropical", "local"]
+  },
+  {
+    "id": "bunga-kertas",
+    "category": "flower",
+    "name": "Bunga Kertas",
+    "scientificName": "Bougainvillea",
+    "image": {
+      "main": "/images/trees/bungakertas/main.jpg",
+      "gallery": [
+        "/images/trees/bungakertas/1.jpg",
+        "/images/trees/bungakertas/2.jpg",
+        "/images/trees/bungakertas/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 19.90,
+      "original": 29.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Malaysia's national flower, perfect for any garden.",
+    "description": "The national flower of Malaysia, our hibiscus trees produce stunning red flowers that bloom year-round. These versatile plants can be grown as shrubs or small trees.",
+    "features": [
+      "National flower",
+      "Year-round blooming",
+      "Fast growing",
+      "Versatile shaping"
+    ],
+    "history": "Chosen as Malaysia's national flower in 1960, the Bunga Raya symbolizes courage and life to Malaysians.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Regular watering, keep soil moist",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "Monthly balanced fertilizer",
+      "pruning": "Regular pruning for shape and flowers"
+    },
+    "seasonality": {
+      "planting": ["Year-round"],
+      "flowering": ["Year-round", "Peak: March to September"]
+    },
+    "tags": ["flower", "national", "tropical", "local"]
+  },
+  {
+    "id": "cempaka-tree",
+    "category": "flower",
+    "name": "Cempaka Tree",
+    "scientificName": "Michelia champaca",
+    "image": {
+      "main": "/images/trees/cempaka/main.jpg",
+      "gallery": [
+        "/images/trees/cempaka/1.jpg",
+        "/images/trees/cempaka/2.jpg",
+        "/images/trees/cempaka/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 149.90,
+      "original": 169.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["3ft", "4ft", "5ft"]
+    },
+    "shortDesc": "Fragrant yellow flowers with cultural significance.",
+    "description": "The Cempaka tree is known for its intensely fragrant yellow-orange flowers. Popular in traditional Malay culture, these flowers are often used in traditional ceremonies and perfumes.",
+    "features": [
+      "Highly fragrant",
+      "Cultural significance",
+      "Evergreen",
+      "Shade tree potential"
+    ],
+    "history": "Deeply rooted in Malay culture, Cempaka flowers are traditionally used in weddings and ceremonies.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Regular watering, moderate moisture",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "Balanced fertilizer quarterly",
+      "pruning": "Light pruning for shape"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "flowering": ["Year-round", "Peak: April to August"]
+    },
+    "tags": ["flower", "fragrant", "cultural", "local"]
+  }
+]
+

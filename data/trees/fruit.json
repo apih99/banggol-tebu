@@ -1,0 +1,231 @@
+[
+  {
+    "id": "duku-tree",
+    "category": "fruit",
+    "name": "Duku Tree",
+    "scientificName": "Lansium parasiticum",
+    "image": {
+      "main": "/images/categories/fruit/duku/main.jpg",
+      "gallery": [
+        "/images/categories/fruit/duku/1.jpg",
+        "/images/categories/fruit/duku/2.jpg",
+        "/images/categories/fruit/duku/3.jpg"
+      ]
+    },
+    "price": {
+      "current": 69.90,
+      "original": 79.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "DKU123",
+      "inStock": true,
+      "variants": ["2ft", "3ft"]
+    },
+    "shortDesc": "Malaysian fruit tree with sweet, slightly tangy, and aromatic fruits.",
+    "description": "Our Duku trees are locally sourced and thrive in the Malaysian climate.  Duku fruits are known for their thick, leathery skin, translucent, juicy flesh, and a unique sweet-tart flavor with a hint of bitterness. They are a cherished local delicacy.",
+    "features": [
+      "Medium growth rate",
+      "Good yield",
+      "Local favorite",
+      "Tolerant of some shade"
+    ],
+    "history": "Duku is native to Southeast Asia, particularly Malaysia, Indonesia, and the Philippines, and has a long history of cultivation in the region.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Regular watering, especially during dry spells.  Prefers humid conditions.",
+      "soil": "Well-draining, fertile soil.  Slightly acidic soil is preferred.",
+      "fertilizer": "Balanced fertilizer (e.g., NPK 10-10-10) every 3-4 months.",
+      "pruning": "Prune to shape the tree and remove dead or diseased branches."
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["July", "August", "January","February"]  
+    },
+    "tags": ["fruit", "tropical", "local","langsat"]
+  },
+  {
+    "id": "mango-tree",
+    "category": "fruit",
+    "name": "Mango Tree",
+    "scientificName": "Mangifera indica",
+    "image": {
+      "main": "/images/categories/fruit/mango/main.jpg",
+      "gallery": [
+        "/images/categories/fruit/mango/1.jpg",
+        "/images/categories/fruit/mango/2.jpg",
+        "/images/categories/fruit/mango/3.jpg"
+      ]
+    },
+
+    "price": {
+      "current": 89.90,
+      "original": 99.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "LwuEcbZ",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Tropical fruit tree with sweet, juicy yields.",
+    "description": "Our mango trees are carefully nurtured to ensure healthy growth and abundant fruit production. Perfect for home gardens, these trees can grow up to 30-40 feet but can be maintained at a smaller size through regular pruning.",
+    "features": [
+      "Self-pollinating",
+      "Fruits within 3-5 years",
+      "Drought tolerant",
+      "Year-round foliage"
+    ],
+    "history": "Native to South Asia, mango trees have been cultivated for thousands of years and are now grown in many tropical and subtropical regions worldwide.",
+    "careTips": {
+      "sunlight": "Full sun (6-8 hours daily)",
+      "water": "Regular watering, allow soil to dry between waterings",
+      "soil": "Well-draining, rich in organic matter",
+      "fertilizer": "NPK 6-6-6 every 3 months",
+      "pruning": "Annual pruning after fruit harvest"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "May"],
+      "fruiting": ["June", "July", "August"]
+    },
+    "tags": ["fruit", "tropical", "evergreen", "popular"]
+  },
+  {
+    "id": "rambutan-tree",
+    "category": "fruit",
+    "name": "Rambutan Tree",
+    "scientificName": "Nephelium lappaceum",
+    "image": {
+      "main": "/images/categories/fruit/rambutan/main.jpg",
+      "gallery": [
+        "/images/categories/fruit/rambutan/1.jpg",
+        "/images/categories/fruit/rambutan/2.jpg",
+        "/images/categories/fruit/rambutan/3.jpg"
+      ]
+    },
+
+    "price": {
+      "current": 79.90,
+      "original": 89.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Popular Malaysian fruit tree with sweet, juicy fruits.",
+    "description": "Our rambutan trees are locally sourced and well-adapted to Malaysian climate. Known for their sweet, translucent flesh and distinctive red spiky exterior, rambutans are a delightful addition to any tropical fruit garden.",
+    "features": [
+      "Fast growing",
+      "High yield",
+      "Local favorite",
+      "Heat tolerant"
+    ],
+    "history": "Native to the Malay-Indonesian region, rambutan has been cultivated for centuries throughout Southeast Asia.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade",
+      "water": "Regular watering, likes humidity",
+      "soil": "Rich, well-draining soil",
+      "fertilizer": "NPK 8-8-8 every 4 months",
+      "pruning": "Regular pruning to maintain size"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["June", "July", "December", "January"]
+    },
+    "tags": ["fruit", "tropical", "local", "popular"]
+  },
+  {
+    "id": "durian-tree",
+    "category": "fruit",
+    "name": "Durian Tree",
+    "scientificName": "Durio zibethinus",
+    "image": {
+      "main": "/images/categories/fruit/durian/main.webp",
+      "gallery": [
+        "/images/categories/fruit/durian/1.jpg",
+        "/images/categories/fruit/durian/2.jpg",
+        "/images/categories/fruit/durian/3.jpg"
+      ]
+    },
+
+    "price": {
+      "current": 199.90,
+      "original": 249.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "C3Vu8bo",
+      "inStock": true,
+      "variants": ["3ft", "4ft", "5ft"]
+    },
+    "shortDesc": "The King of Fruits - premium durian tree saplings.",
+    "description": "Our durian trees are carefully selected from premium varieties known for their rich, creamy flesh and intense flavor. These saplings are grafted to ensure they maintain the quality of the parent tree.",
+    "features": [
+      "Premium variety",
+      "Grafted sapling",
+      "High yield potential",
+      "Strong root system"
+    ],
+    "history": "Native to Southeast Asia, durian has been cultivated for centuries and is particularly beloved in Malaysia, where it's known as the 'King of Fruits'.",
+    "careTips": {
+      "sunlight": "Full sun (6-8 hours daily)",
+      "water": "Regular watering, well-draining soil essential",
+      "soil": "Rich, deep, well-draining soil",
+      "fertilizer": "NPK 15-15-15 every 3 months",
+      "pruning": "Minimal pruning, mainly for shape"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["June", "July", "December", "January"]
+    },
+    "tags": ["fruit", "tropical", "local", "premium"]
+  },
+  {
+    "id": "mangosteen-tree",
+    "category": "fruit",
+    "name": "Mangosteen Tree",
+    "scientificName": "Garcinia mangostana",
+    "image": {
+      "main": "/images/categories/fruit/mangosteen/main.png",
+      "gallery": [
+        "/images/categories/fruit/mangosteen/1.jpg",
+        "/images/categories/fruit/mangosteen/2.jpg",
+        "/images/categories/fruit/mangosteen/3.jpg"
+      ]
+    },
+
+    "price": {
+      "current": 129.90,
+      "original": 149.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "X5MHsKB",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "The Queen of Fruits - elegant and delicious.",
+    "description": "Known as the Queen of Fruits, mangosteen trees produce beautiful purple fruits with sweet, white segments inside. Our trees are well-established and ready for your garden.",
+    "features": [
+      "Slow growing",
+      "Evergreen",
+      "Ornamental value",
+      "Disease resistant"
+    ],
+    "history": "Originally from the Sunda Islands and the Moluccas, mangosteen has been cultivated in Malaysia for centuries and is prized for its delicate flavor.",
+    "careTips": {
+      "sunlight": "Partial shade when young, full sun when mature",
+      "water": "Regular watering, likes humidity",
+      "soil": "Rich, acidic soil (pH 5.5-6.8)",
+      "fertilizer": "Balanced NPK every 3 months",
+      "pruning": "Minimal pruning needed"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "September", "October"],
+      "fruiting": ["June", "July", "November", "December"]
+    },
+    "tags": ["fruit", "tropical", "local", "premium"]
+  }
+] 
