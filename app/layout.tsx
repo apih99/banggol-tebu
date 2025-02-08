@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${playfair.variable} ${lato.variable} font-sans bg-gradient-to-b from-background-light to-background-dark min-h-screen`}
+        className={`${playfair.variable} ${lato.variable} font-sans min-h-screen flex flex-col`}
       >
         <Header />
         <main className="flex-grow">
