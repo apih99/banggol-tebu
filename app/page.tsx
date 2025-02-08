@@ -2,7 +2,7 @@
 
 import { Suspense } from "react"
 import Link from "next/link"
-import { ArrowRight, Star, Leaf, TrendingUp, BoxIcon, FlashlightIcon } from "lucide-react"
+import { ArrowRight, Star, Leaf, TrendingUp, BoxIcon} from "lucide-react"
 import CategoryCard from "./components/CategoryCard"
 import HeroSection from "./components/HeroSection"
 import ShopeeButton from "./components/ShopeeButton"
