@@ -31,7 +31,7 @@ export default function About() {
               className="rounded-lg shadow-md"
 
             />
-            <p className="mt-2 italic">Puan Aminah, Owner of Banggol Tebu Nursery</p>
+            <p className="mt-2 italic">Banggol Tebu Nursery</p>
           </div>
         </div>
       </div>
