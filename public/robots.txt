@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /_next
+Disallow: /static
+
+# Host
+Host: https://banggol-tebu.vercel.app
+
+# Sitemaps
+Sitemap: https://banggol-tebu.vercel.app/sitemap.xml
+Sitemap: https://banggol-tebu.vercel.app/server-sitemap.xml
