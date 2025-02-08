@@ -25,6 +25,7 @@ export default function RootLayout({
         className={`${playfair.variable} ${lato.variable} font-sans min-h-screen flex flex-col`}
       >
         <Header />
+        <meta name="apple-mobile-web-app-title" content="BanggolTebu" />
         <main className="flex-grow">
           {children}
         </main>

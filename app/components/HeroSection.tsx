@@ -8,8 +8,7 @@ import ShopeeButton from "./ShopeeButton"
 const backgroundImages = [
   "/images/hero/1.jpg",  // We'll add these images later
   "/images/hero/2.jpg",
-  "/images/hero/3.jpg",
-  "/images/hero/4.jpg"
+  "/images/hero/3.jpg"
 ]
 
 export default function HeroSection() {
@@ -42,7 +41,7 @@ export default function HeroSection() {
 
       {/* Content */}
       <div className="relative h-full flex flex-col items-center justify-center text-center text-white px-4">
-        <h1 className="text-5xl font-serif font-bold mb-4 animate-slideUp">
+        <h1 className="text-4xl font-serif font-bold mb-4 animate-slideUp">
           Grow Beauty & Nourishment
         </h1>
         <p
