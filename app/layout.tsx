@@ -29,6 +29,7 @@ export const metadata: Metadata = {
     "Kuala Berang",
     "Kuala Berang nursery",
     "Shopee nursery",
+    "Online nursery",
     "local trees"
   ],
   authors: [{ name: "Banggol Tebu Nursery" }],

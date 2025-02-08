@@ -7,6 +7,7 @@ PRD.md
 requirements.txt
 scratchpad.md
 /.vscode.example
+.cursor
 
 # commit message files
 commit_msg*.txt

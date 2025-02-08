@@ -5,7 +5,7 @@ import { Facebook, Instagram, MapPin, Phone, Mail, ShoppingBag } from "lucide-re
 
 export default function Footer() {
   return (
-    <footer className="bg-lime-900 text-white mt-12">
+    <footer className="bg-lime-500 text-white mt-12">
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {/* Navigation Links */}

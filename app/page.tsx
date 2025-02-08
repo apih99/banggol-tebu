@@ -2,7 +2,7 @@
 
 import { Suspense } from "react"
 import Link from "next/link"
-import { ArrowRight, Star, Leaf, TrendingUp } from "lucide-react"
+import { ArrowRight, Star, Leaf, TrendingUp, BoxIcon, FlashlightIcon } from "lucide-react"
 import CategoryCard from "./components/CategoryCard"
 import HeroSection from "./components/HeroSection"
 import ShopeeButton from "./components/ShopeeButton"
@@ -177,6 +177,13 @@ function HomeContent() {
               </div>
               <h3 className="font-bold mb-2">Growth Guarantee</h3>
               <p className="text-gray-600">We ensure your trees thrive in their new home</p>
+            </div>
+            <div className="bg-white p-6 rounded-lg shadow-md text-center">
+              <div className="w-12 h-12 bg-lime-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <BoxIcon className="text-lime-600" size={24} />
+              </div>
+              <h3 className="font-bold mb-2">Safely Packaged</h3>
+              <p className="text-gray-600">Your trees are carefully packed and shipped to you</p>
             </div>
           </div>
         </div>
