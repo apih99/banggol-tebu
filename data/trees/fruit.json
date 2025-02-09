@@ -1,48 +1,48 @@
 [
   {
-    "id": "duku-tree",
+    "id": "ciku-mega-fruit",
     "category": "fruit",
-    "name": "Duku Tree",
-    "scientificName": "Lansium parasiticum",
+    "name": "Ciku Mega",
+    "scientificName": "Manilkara zapota",
     "image": {
-      "main": "/images/categories/fruit/duku/main.jpg",
+      "main": "/images/categories/fruit/ciku/main.jpg",
       "gallery": [
-        "/images/categories/fruit/duku/1.jpg",
-        "/images/categories/fruit/duku/2.jpg",
-        "/images/categories/fruit/duku/3.jpg"
+        "/images/categories/fruit/ciku/1.jpg",
+        "/images/categories/fruit/ciku/2.jpg",
+        "/images/categories/fruit/ciku/3.jpg"
       ]
     },
     "price": {
-      "current": 69.90,
-      "original": 79.90,
+      "current": 79.90,
+      "original": 89.90,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "DKU123",
+      "productId": "Xc7KjP2",
       "inStock": true,
-      "variants": ["2ft", "3ft"]
+      "variants": ["2ft", "3ft", "4ft"]
     },
-    "shortDesc": "Malaysian fruit tree with sweet, slightly tangy, and aromatic fruits.",
-    "description": "Our Duku trees are locally sourced and thrive in the Malaysian climate.  Duku fruits are known for their thick, leathery skin, translucent, juicy flesh, and a unique sweet-tart flavor with a hint of bitterness. They are a cherished local delicacy.",
+    "shortDesc": "Sweet and grainy textured tropical fruit tree.",
+    "description": "Our Ciku trees, also known as Sapodilla, are cultivated for their delicious, sweet, and grainy textured fruit. These trees thrive in warm climates and are perfect additions to home gardens. They can grow to a medium size, typically around 20-30 feet, and can be managed with proper pruning.",
     "features": [
-      "Medium growth rate",
-      "Good yield",
-      "Local favorite",
-      "Tolerant of some shade"
+      "Self-pollinating",
+      "Fruits within 5-7 years",
+      "Drought tolerant",
+      "Evergreen foliage"
     ],
-    "history": "Duku is native to Southeast Asia, particularly Malaysia, Indonesia, and the Philippines, and has a long history of cultivation in the region.",
+    "history": "Originating from Central America and Mexico, Ciku was spread throughout the tropics by Spanish colonizers and is now widely grown in Southeast Asia and India.",
     "careTips": {
-      "sunlight": "Full sun to partial shade",
-      "water": "Regular watering, especially during dry spells.  Prefers humid conditions.",
-      "soil": "Well-draining, fertile soil.  Slightly acidic soil is preferred.",
-      "fertilizer": "Balanced fertilizer (e.g., NPK 10-10-10) every 3-4 months.",
-      "pruning": "Prune to shape the tree and remove dead or diseased branches."
+      "sunlight": "Full sun",
+      "water": "Regular watering, especially when young",
+      "soil": "Well-draining soil, slightly acidic to neutral",
+      "fertilizer": "Balanced fertilizer during growing season",
+      "pruning": "Minimal pruning required, mainly for shaping"
     },
     "seasonality": {
-      "planting": ["March", "April", "September", "October"],
-      "fruiting": ["July", "August", "January","February"]  
+      "planting": ["April", "May", "June"],
+      "fruiting": ["September", "October", "November"]
     },
-    "tags": ["fruit", "tropical", "local","langsat"]
+    "tags": ["fruit", "tropical", "evergreen", "sweet", "popular"]
   },
   {
     "id": "mango-tree",

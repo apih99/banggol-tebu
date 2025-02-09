@@ -1,0 +1,98 @@
+[
+  
+  {
+    "id": "mango-tree",
+    "category": "fruit",
+    "name": "Mango Tree",
+    "scientificName": "Mangifera indica",
+    "image": {
+      "main": "/images/categories/fruit/mango/main.jpg",
+      "gallery": [
+        "/images/categories/fruit/mango/1.jpg",
+        "/images/categories/fruit/mango/2.jpg",
+        "/images/categories/fruit/mango/3.jpg"
+      ]
+    },
+
+    "price": {
+      "current": 89.90,
+      "original": 99.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "LwuEcbZ",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Tropical fruit tree with sweet, juicy yields.",
+    "description": "Our mango trees are carefully nurtured to ensure healthy growth and abundant fruit production. Perfect for home gardens, these trees can grow up to 30-40 feet but can be maintained at a smaller size through regular pruning.",
+    "features": [
+      "Self-pollinating",
+      "Fruits within 3-5 years",
+      "Drought tolerant",
+      "Year-round foliage"
+    ],
+    "history": "Native to South Asia, mango trees have been cultivated for thousands of years and are now grown in many tropical and subtropical regions worldwide.",
+    "careTips": {
+      "sunlight": "Full sun (6-8 hours daily)",
+      "water": "Regular watering, allow soil to dry between waterings",
+      "soil": "Well-draining, rich in organic matter",
+      "fertilizer": "NPK 6-6-6 every 3 months",
+      "pruning": "Annual pruning after fruit harvest"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "May"],
+      "fruiting": ["June", "July", "August"]
+    },
+    "tags": ["fruit", "tropical", "evergreen", "popular"]
+  },
+
+  {
+    "id": "",
+    "category": "",
+    "name": "",
+    "scientificName": "",
+    "image": {
+      "main": "/images/categories/fruit/mango/main.jpg",
+      "gallery": [
+        "/images/categories/fruit/mango/1.jpg",
+        "/images/categories/fruit/mango/2.jpg",
+        "/images/categories/fruit/mango/3.jpg"
+      ]
+    },
+
+    "price": {
+      "current": 89.90,
+      "original": 99.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "LwuEcbZ",
+      "inStock": true,
+      "variants": ["2ft", "3ft", "4ft"]
+    },
+    "shortDesc": "Tropical fruit tree with sweet, juicy yields.",
+    "description": "Our mango trees are carefully nurtured to ensure healthy growth and abundant fruit production. Perfect for home gardens, these trees can grow up to 30-40 feet but can be maintained at a smaller size through regular pruning.",
+    "features": [
+      "Self-pollinating",
+      "Fruits within 3-5 years",
+      "Drought tolerant",
+      "Year-round foliage"
+    ],
+    "history": "Native to South Asia, mango trees have been cultivated for thousands of years and are now grown in many tropical and subtropical regions worldwide.",
+    "careTips": {
+      "sunlight": "",
+      "water": "",
+      "soil": "",
+      "fertilizer": "",
+      "pruning": ""
+    },
+    "seasonality": {
+      "planting": ["March", "April", "May"],
+      "fruiting": ["June", "July", "August"]
+    },
+    "tags": ["fruit", "tropical", "evergreen", "popular"]
+  }
+
+
+]
