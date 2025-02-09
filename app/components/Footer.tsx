@@ -40,6 +40,9 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-bold mb-3">Contact Us</h3>
             <div className="flex flex-col gap-2 text-sm">
+              <a href="https://maps.app.goo.gl/YLQrDudY8BYpccnb9" 
+                 target="_blank" rel="noopener noreferrer" 
+                 className="hover:text-lime-300 transition-colors inline-flex items-center gap-1.5">
               <address className="not-italic">
                 <div className="flex items-start gap-1.5">
                   <MapPin className="mt-1 flex-shrink-0" size={16} />
@@ -52,6 +55,7 @@ export default function Footer() {
                   </span>
                 </div>
               </address>
+              </a>
               <a
                 href="tel:+60139947618"
                 className="hover:text-lime-300 transition-colors inline-flex items-center gap-1.5"
