@@ -57,14 +57,14 @@ export default function Footer() {
                 className="hover:text-lime-300 transition-colors inline-flex items-center gap-1.5"
               >
                 <Phone size={16} />
-                +60 12-345 6789
+                +60 13-994 7618
               </a>
               <a
-                href="mailto:info@banggoltebu.com"
+                href="mailto:hafizcr716@gmail.com"
                 className="hover:text-lime-300 transition-colors inline-flex items-center gap-1.5"
               >
                 <Mail size={16} />
-                info@banggoltebu.com
+                hafizcr716@gmail.com
               </a>
             </div>
           </div>
