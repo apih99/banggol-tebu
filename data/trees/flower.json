@@ -1,49 +1,49 @@
 [
   {
-    "id": "cherry-blossom",
-    "category": "flower",
-    "name": "Cherry Blossom",
-    "scientificName": "Prunus serrulata",
+    "id": "ati-ati",
+    "category": "foliage",
+    "name": "Pokok Ati ati",
+    "scientificName": "Coleus scutellarioides",
     "image": {
-      "main": "/images/categories/flower/cherry/main.jpg",
+      "main": "/images/categories/flower/ati-ati/main.jpg",
       "gallery": [
-        "/images/categories/flower/cherry/1.jpg",
-        "/images/categories/flower/cherry/2.jpg",
-        "/images/categories/flower/cherry/3.jpg"
+        "/images/categories/flower/ati-ati/1.jpg",
+        "/images/categories/flower/ati-ati/2.webp",
+        "/images/categories/flower/ati-ati/3.webp"
       ]
     },
 
     "price": {
-      "current": 19.90,
-      "original": 27.90,
+      "current": 9.90,
+      "original": 19.90,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "X5MHsKB",
+      "productId": "W4xCxkR",
       "inStock": true,
-      "variants": ["3ft", "4ft", "5ft"]
+      "variants": ["small", "medium", "large"]
     },
-    "shortDesc": "Ornamental tree known for its beautiful pink blossoms.",
-    "description": "Our cherry blossom trees are perfect for adding a touch of elegance to any garden. These ornamental trees burst into stunning pink blooms during flowering season, creating a magical atmosphere in your outdoor space.",
+    "shortDesc": "Ornamental plant with vibrant, colorful foliage.",
+    "description": "Pokok Ati ati, also known as Coleus, is prized for its striking and diverse leaf colors and patterns. This easy-to-grow plant adds a splash of color to any garden or indoor space. Its foliage comes in a wide range of colors, including red, pink, yellow, green, and purple.",
     "features": [
-      "Beautiful spring blooms",
-      "Attractive bark",
-      "Moderate growth rate",
-      "Good for small gardens"
+      "Easy to grow",
+      "Colorful foliage",
+      "Low maintenance",
+      "Shade tolerant"
     ],
-    "history": "Cherry blossoms, or sakura, have been cherished in Japanese culture for centuries and are now popular worldwide for their stunning spring displays.",
+    "history": "Native to Southeast Asia and Australia, Coleus has been cultivated for its ornamental foliage and is popular worldwide for its vibrant colors and ease of care.",
     "careTips": {
-      "sunlight": "Full sun to partial shade",
-      "water": "Moderate watering, keep soil moist",
-      "soil": "Well-draining, slightly acidic",
-      "fertilizer": "Balanced fertilizer in early spring",
-      "pruning": "Light pruning after flowering"
+      "sunlight": "Partial shade to full shade (avoid harsh afternoon sun)",
+      "water": "Keep soil consistently moist, but not waterlogged",
+      "soil": "Well-draining, general-purpose potting mix",
+      "fertilizer": "Balanced liquid fertilizer every 4-6 weeks during growing season",
+      "pruning": "Pinch back tips to encourage bushier growth"
     },
     "seasonality": {
-      "planting": ["October", "November", "December"],
-      "flowering": ["March", "April"]
+      "planting": ["Year-round in warm climates"],
+      "flowering": ["Year-round"]
     },
-    "tags": ["flower", "ornamental", "spring", "popular"]
+    "tags": ["flower","foliage", "local", "colorful", "easy-care", "national"]
   },
   {
     "id": "bunga-kertas",
@@ -60,12 +60,12 @@
     },
 
     "price": {
-      "current": 19.90,
-      "original": 29.90,
+      "current": 15.00,
+      "original": 25.00,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "Pokok-Bunga-Kertas-Purple-i.94186479.29659654544",
+      "productId": "kwfwQuS",
       "inStock": true,
       "variants": ["2ft", "3ft", "4ft"]
     },
@@ -92,52 +92,6 @@
     "tags": ["flower", "national", "tropical", "local"]
   },
   {
-    "id": "frangipani-tree",
-    "category": "flower",
-    "name": "Frangipani Tree",
-    "scientificName": "Plumeria rubra",
-    "image": {
-      "main": "/images/categories/flower/frangipani/main.jpg",
-      "gallery": [
-        "/images/categories/flower/frangipani/1.jpg",
-        "/images/categories/flower/frangipani/2.jpg",
-        "/images/categories/flower/frangipani/3.jpg"
-      ]
-    },
-
-    "price": {
-      "current": 25.90,
-      "original": 30.90,
-      "currency": "MYR"
-    },
-    "shopee": {
-      "productId": "X5MHsKB",
-      "inStock": true,
-      "variants": ["2ft", "3ft", "4ft"]
-    },
-    "shortDesc": "Fragrant tropical flowers perfect for gardens.",
-    "description": "Our frangipani trees produce beautiful, fragrant flowers in various colors. These low-maintenance trees are perfect for creating a tropical paradise in your garden.",
-    "features": [
-      "Fragrant flowers",
-      "Multiple colors",
-      "Drought tolerant",
-      "Easy to grow"
-    ],
-    "history": "A beloved ornamental tree in Malaysia, frangipani flowers are often used in traditional ceremonies and garlands.",
-    "careTips": {
-      "sunlight": "Full sun for best flowering",
-      "water": "Moderate watering, drought tolerant",
-      "soil": "Well-draining soil",
-      "fertilizer": "High phosphorus fertilizer during growing season",
-      "pruning": "Prune in early spring"
-    },
-    "seasonality": {
-      "planting": ["March", "April", "May"],
-      "flowering": ["Year-round", "Peak: June to November"]
-    },
-    "tags": ["flower", "fragrant", "tropical", "local"]
-  },
-  {
     "id": "bunga-raya",
     "category": "flower",
     "name": "Hibiscus Tree (Bunga Raya)",
@@ -152,12 +106,12 @@
       ]
     },
     "price": {
-      "current": 25.90,
-      "original": 32.90,
+      "current": 14.25,
+      "original": 20.00,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "X5MHsKB",
+      "productId": "mdJj7xj",
       "inStock": true,
       "variants": ["2ft", "3ft", "4ft"]
     },
@@ -191,19 +145,18 @@
     "image": {
       "main": "/images/categories/flower/cempaka/main.jpg",
       "gallery": [
-        "/images/categories/flower/cempaka/1.jpg",
-        "/images/categories/flower/cempaka/2.jpg",
-        "/images/categories/flower/cempaka/3.jpg"
+        "/images/categories/flower/cempaka/1.png",
+        "/images/categories/flower/cempaka/2.png"
       ]
     },
 
     "price": {
-      "current": 19.90,
-      "original": 29.90,
+      "current": 18.00,
+      "original": 28.00,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "X5MHsKB",
+      "productId": "KMoCmsM",
       "inStock": true,
       "variants": ["3ft", "4ft", "5ft"]
     },
@@ -228,5 +181,50 @@
       "flowering": ["Year-round", "Peak: April to August"]
     },
     "tags": ["flower", "fragrant", "cultural", "local"]
+  },
+  {
+    "id": "cuphea",
+    "category": "flower",
+    "name": "Cuphea",
+    "scientificName": "Cuphea ignea",
+    "image": {
+      "main": "/images/categories/flower/cuphea/main.jpg",
+      "gallery": [
+        "/images/categories/flower/cuphea/1.webp",
+        "/images/categories/flower/cuphea/2.webp",
+        "/images/categories/flower/cuphea/3.webp"
+      ]
+    },
+    "price": {
+      "current": 9.90,
+      "original": 19.90,
+      "currency": "MYR"
+    },
+    "shopee": {
+      "productId": "KSYfgi2",
+      "inStock": true,
+      "variants": ["Small", "Medium", "Large"]
+    },
+    "shortDesc": "Colorful flowering plant attracting pollinators.",
+    "description": "Cuphea is a vibrant, low-maintenance plant known for its tubular flowers that attract hummingbirds and butterflies. Ideal for borders, containers, or ground cover, it thrives in warm climates and blooms profusely from spring to fall.",
+    "features": [
+      "Drought tolerant once established",
+      "Long blooming season",
+      "Deer resistant",
+      "Adaptable to container growth"
+    ],
+    "history": "Native to Mexico and Central America, Cuphea has become a popular ornamental plant globally due to its striking flowers and ecological benefits for pollinators.",
+    "careTips": {
+      "sunlight": "Full sun to partial shade (4-6 hours daily)",
+      "water": "Moderate watering, drought tolerant when mature",
+      "soil": "Well-draining, slightly acidic to neutral pH",
+      "fertilizer": "Balanced 10-10-10 monthly during growing season",
+      "pruning": "Deadhead spent flowers to promote new blooms"
+    },
+    "seasonality": {
+      "planting": ["March", "April", "May"],
+      "fruiting": ["Blooms from June to October"]
+    },
+    "tags": ["flower", "ornamental", "drought-tolerant", "pollinator-friendly"]
   }
 ] 
