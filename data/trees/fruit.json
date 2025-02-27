@@ -13,8 +13,8 @@
       ]
     },
     "price": {
-      "current": 79.90,
-      "original": 89.90,
+      "current": 38.00,
+      "original": 49.90,
       "currency": "MYR"
     },
     "shopee": {
@@ -59,12 +59,12 @@
     },
 
     "price": {
-      "current": 89.90,
-      "original": 99.90,
+      "current": 28.00,
+      "original": 39.90,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "LwuEcbZ",
+      "productId": "79eb27G",
       "inStock": true,
       "variants": ["2ft", "3ft", "4ft"]
     },
@@ -105,12 +105,12 @@
     },
 
     "price": {
-      "current": 79.90,
-      "original": 89.90,
+      "current": 19.90,
+      "original": 29.90,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "X5MHsKB",
+      "productId": "UkGwTSH",
       "inStock": true,
       "variants": ["2ft", "3ft", "4ft"]
     },
@@ -151,8 +151,8 @@
     },
 
     "price": {
-      "current": 199.90,
-      "original": 249.90,
+      "current": 28.00,
+      "original": 39.90,
       "currency": "MYR"
     },
     "shopee": {
@@ -197,12 +197,12 @@
     },
 
     "price": {
-      "current": 129.90,
-      "original": 149.90,
+      "current": 20.00,
+      "original": 29.90,
       "currency": "MYR"
     },
     "shopee": {
-      "productId": "X5MHsKB",
+      "productId": "218Yg24",
       "inStock": true,
       "variants": ["2ft", "3ft", "4ft"]
     },
